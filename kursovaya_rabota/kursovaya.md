@@ -9,7 +9,7 @@
 | Что | Ссылка |
 |---|---|
 | Репозиторий проекта | https://github.com/sonikoku/tz-21-shinomontazh-koleso21 |
-| Сайт на Vercel | https://tz-21-shinomentazh-koleso21.vercel.app/ |
+| Сайт на Vercel | https://tz-21-shinomontazh-koleso21.vercel.app/ |
 | Описание работы `docs/opisanie.md` | https://github.com/sonikoku/tz-21-shinomontazh-koleso21/blob/main/docs/opisanie.md |
 | Презентация `presentation/zashchita.pdf` | https://github.com/sonikoku/tz-21-shinomontazh-koleso21/blob/main/docs/koleso21-prd.md |
 | Таблица заявок | https://docs.google.com/spreadsheets/d/1TeDwWQ1Zo6oh9bWn_b27sV6YU8Iqze95l3kSVtQ_edY/edit?hl=ru&gid=0#gid=0 |
